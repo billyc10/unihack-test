@@ -6,3 +6,5 @@ import * as serviceWorker from './serviceWorker';
 
 // My First Commit
 ReactDOM.render(<App />, document.getElementById('root'));
+
+console.log("Hello");
